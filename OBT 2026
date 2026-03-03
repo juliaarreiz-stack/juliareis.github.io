@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meu Primeiro Site</title>
+    <meta charset="UTF-8">
+</head>
+<body>
+
+    <h1>Economia na Prática</h1>
+    <p>Projeto Auristas OBT 2026</p>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meu Primeiro Site</title>
+    <meta charset="UTF-8">
+
+    <style>
+        body {
+            background-color: #111;
+            color: white;
+            text-align: center;
+            font-family: Arial;
+        }
+
+        h1 {
+            color: #00ffcc;
+        }
+    </style>
+
+</head>
+<body>
+
+    <h1>🚀</h1>
+    <p>Os papa medalha</p>
+
+</body>
+</html>
